@@ -1,4 +1,4 @@
-# Account-Management-Dashdboard
+# Account-Management-Dashboard
 
 The primary goal is to provide a clear, step-by-step overview of the current account management review process, focusing on how data is manually pulled, manipulated, and used to generate client and debtor concentration reports.
 
